@@ -1,0 +1,19 @@
+{
+  "name": "booking_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Scritpt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arshad9633/javascript-booking-system-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arshad9633/javascript-booking-system-app/issues"
+  },
+  "homepage": "https://github.com/Arshad9633/javascript-booking-system-app#readme"
+}
